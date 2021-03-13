@@ -1,0 +1,28 @@
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8>
+    <meta name="viewport" content=widht=device-width intial-scale=.0">
+    <title>Document</title
+<head>
+<body>
+  <form action="">
+
+<label for=""></label>
+username :
+     <input type="text"name="nusername">
+  </form>
+
+  <label
+    Nama :      
+     <input type "text" name"username">
+     <label> 
+     formel
+     NRP :         
+     <input type="text"name="nrp">
+     </label>
+
+     
+      
+  </body>
+  </html>
